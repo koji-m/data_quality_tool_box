@@ -1,0 +1,5 @@
+streamlit==1.7.0
+google-auth==2.6.0
+google-cloud-bigquery==2.34.2
+pandas==1.4.1
+pandas-gbq==0.17.4

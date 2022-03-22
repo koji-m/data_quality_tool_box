@@ -1,0 +1,3 @@
+soda-sql-bigquery==2.1.6
+google-cloud-bigquery==2.34.2
+pandas-gbq==0.17.4
